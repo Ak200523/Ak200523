@@ -85,5 +85,4 @@ Developed a full-stack recipe-sharing platform with database integration and int
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/anelle-khare-69923432a/
-* GitHub: https://github.com/Ak200523
 * Email: anelle.earhart@gmail.com
