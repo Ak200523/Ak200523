@@ -3,9 +3,6 @@
 ### Cybersecurity student passionate about secure systems, AI-powered solutions, and full-stack development.
 
 ```yaml
-Currently Studying:
-  - Management Information Systems
-
 Interests:
   - Cybersecurity
   - Ethical Hacking
