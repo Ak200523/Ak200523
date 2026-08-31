@@ -63,21 +63,23 @@ Developed a full-stack recipe-sharing platform with database integration and int
 
 ### ☁️ SAP
 
-* **SAP** – Exploring SAP Cloud ERP: Implementing SAP S/4HANA Cloud Public Edition — [View Certificate](./certifications/SAP-Cloud-ERP.pdf)
+- **SAP** – Exploring SAP Cloud ERP: Implementing SAP S/4HANA Cloud Public Edition — [View Diploma](./certifications/DSP%20Participation%20Diploma%20-%20Anelle%20Ashok%20Khare.pdf)
 
 ### 🤖 AI & Technology
 
-* **LinkedIn Learning** – Ethics in the Age of Generative AI — [View Certificate](./certifications/Ethics-in-the-Age-of-Generative-AI.pdf)
-* **LinkedIn Learning** – Generative AI for Cyber Range and Training — [View Certificate](./certifications/Generative-AI-for-Cyber-Range-and-Training.pdf)
-* **LinkedIn Learning** – Leveraging AI in Security Testing — [View Certificate](./certifications/Leveraging-AI-in-Security-Testing.pdf)
-* **LinkedIn Learning** – Ethical Hacking: Wireless Network — [View Certificate](./certifications/Ethical-Hacking-Wireless-Network.pdf)
-* **LinkedIn Learning** – Ethical Hacking: Session Hijacking — [View Certificate](./certifications/Ethical-Hacking-Session-Hijacking.pdf)
-* **LinkedIn Learning** – Ethical Hacking: Hacking Web Servers and Web Applications — [View Certificate](./certifications/Ethical-Hacking-Web-Servers-and-Web-Applications.pdf)
-* **LinkedIn Learning** – Using AI in Research Projects — [View Certificate](./certifications/Using-AI-in-Research-Projects.pdf)
-* **LinkedIn Learning** – Ethical Hacking: Mobile Devices and Platforms — [View Certificate](./certifications/Ethical-Hacking-Mobile-Devices-and-Platforms.pdf)
+- **LinkedIn Learning** – Ethics in the Age of Generative AI — [View Certificate](./certifications/Ethics%20in%20the%20Age%20of%20Generative%20AI.pdf)
+- **LinkedIn Learning** – Generative AI for Cyber Range and Training — [View Certificate](./certifications/Generative%20AI%20for%20Cyber%20Range%20and%20Training.pdf)
+- **LinkedIn Learning** – Leveraging AI in Security Testing — [View Certificate](./certifications/Leveraging%20AI%20for%20Security%20Testing.pdf)
+- **LinkedIn Learning** – Using AI in Research Projects — [View Certificate](./certifications/Using%20AI%20in%20Research%20Projects.pdf)
 
-📁 [View all uploaded certificates](./certifications/)
+### 🔐 Ethical Hacking
 
+- **LinkedIn Learning** – Ethical Hacking: Wireless Networks — [View Certificate](./certifications/Ethical%20Hacking%20Wireless%20Networks.pdf)
+- **LinkedIn Learning** – Ethical Hacking: Session Hijacking — [View Certificate](./certifications/Ethical%20Hacking%20Session%20Hijacking.pdf)
+- **LinkedIn Learning** – Ethical Hacking: Hacking Web Servers and Web Applications — [View Certificate](./certifications/Ethical%20Hacking%20Hacking%20Web%20Servers%20and%20Web%20Applications.pdf)
+- **LinkedIn Learning** – Ethical Hacking: Mobile Devices and Platforms — [View Certificate](./certifications/Ethical%20Hacking%20Mobile%20Devices%20and%20Platforms.pdf)
+
+📁 **[View all uploaded certificates](./certifications/)**
 
 ---
 
