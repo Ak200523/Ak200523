@@ -59,41 +59,26 @@ Designed a user-centric smart city application with wireframes and use cases to 
 Developed a full-stack recipe-sharing platform with database integration and interactive user features.
 
 ---
-
 ## 📜 Certifications
-
-* SAP Dual Study Program - Exploring SAP Cloud ERP Implementing SAP S/4HANA Cloud Public Edition
-* LinkedIn Learning - Ethics in the Age of Generative AI 
-* LinkedIn Learning - Generative AI for Cyber Range and Training
-* LinkedIn Learning - Leveraging AI in Security Testing
-* LinkedIn Learning - Ethical Hacking: Wireless Network
-* LinkedIn Learning - Ethical Hacking: Session Hijacking
-* LinkedIn Learning - Ethical Hacking: Hacking Web Servers and Web Applications
-* LinkedIn Learning - Using AI in Research Projects
-* LinkedIn Learning - Ethical Hacking: Mobile Devices and Platforms
-* IBM – Cybersecurity Fundamentals
-* Google – Foundations of Cyber Security
-* Google – Manage Security Risks
-* IBM – Cybersecurity Fundamentals Capstone
-* LinkedIn – Applied ChatGPT for Cybersecurity
-* LinkedIn – Threat Modelling: Spoofing in Depth
-* Google – Security Principles in Cloud Computing
-### 🔐 Cybersecurity
-
-- **IBM** – Cybersecurity Fundamentals — [View Certificate](./certifications/IBM-Cybersecurity-Fundamentals.pdf)
-- **IBM** – Cybersecurity Fundamentals Capstone — [View Certificate](./certifications/IBM-Cybersecurity-Fundamentals-Capstone.pdf)
-- **Google** – Foundations of Cyber Security — [View Certificate](./certifications/Google-Foundations-of-Cybersecurity.pdf)
-- **Google** – Manage Security Risks — [View Certificate](./certifications/Google-Manage-Security-Risks.pdf)
-- **Google** – Security Principles in Cloud Computing — [View Certificate](./certifications/Google-Cloud-Security-Principles.pdf)
-
-### 🤖 AI & Technology
-
-- **LinkedIn Learning** – Ethics in the Age of Generative AI — [View Certificate](./certifications/Ethics-in-the-Age-of-Generative-AI.pdf)
-- **LinkedIn Learning** – Applied ChatGPT for Cybersecurity — [View Certificate](./certifications/Applied-ChatGPT-for-Cybersecurity.pdf)
 
 ### ☁️ SAP
 
-- **SAP** – Exploring SAP Cloud ERP: Implementing SAP S/4HANA Cloud Public Edition — [View Diploma](./certifications/SAP-Cloud-ERP.pdf)
+* **SAP** – Exploring SAP Cloud ERP: Implementing SAP S/4HANA Cloud Public Edition — [View Certificate](./certifications/SAP-Cloud-ERP.pdf)
+
+### 🤖 AI & Technology
+
+* **LinkedIn Learning** – Ethics in the Age of Generative AI — [View Certificate](./certifications/Ethics-in-the-Age-of-Generative-AI.pdf)
+* **LinkedIn Learning** – Generative AI for Cyber Range and Training — [View Certificate](./certifications/Generative-AI-for-Cyber-Range-and-Training.pdf)
+* **LinkedIn Learning** – Leveraging AI in Security Testing — [View Certificate](./certifications/Leveraging-AI-in-Security-Testing.pdf)
+* **LinkedIn Learning** – Ethical Hacking: Wireless Network — [View Certificate](./certifications/Ethical-Hacking-Wireless-Network.pdf)
+* **LinkedIn Learning** – Ethical Hacking: Session Hijacking — [View Certificate](./certifications/Ethical-Hacking-Session-Hijacking.pdf)
+* **LinkedIn Learning** – Ethical Hacking: Hacking Web Servers and Web Applications — [View Certificate](./certifications/Ethical-Hacking-Web-Servers-and-Web-Applications.pdf)
+* **LinkedIn Learning** – Using AI in Research Projects — [View Certificate](./certifications/Using-AI-in-Research-Projects.pdf)
+* **LinkedIn Learning** – Ethical Hacking: Mobile Devices and Platforms — [View Certificate](./certifications/Ethical-Hacking-Mobile-Devices-and-Platforms.pdf)
+
+📁 [View all uploaded certificates](./certifications/)
+
+
 ---
 
 ## 🕶️ Cybersecurity Quote
